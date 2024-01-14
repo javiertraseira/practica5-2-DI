@@ -5,5 +5,6 @@ Crea una página web como en el diseño que tenga al menos los siguientes elemen
 -   Un contenedor principal que tenga los siguientes elementos en **dos columnas**:
     -   Un **formulario** principal con al menos 6 elementos de formulario y una validación básica de éstos usando el estándar de HTML5.
     -   Una **tabla** formateada en Bootstrap con datos y al menos 10 entradas.
+    -	Un carrusel de **imágenes**, una galería, o similar, con imágenes generadas aleatoriamente de tamaño reducido.
 
 ![](media/9e619c7221b7ff3c464c086da7136b3b.png)
