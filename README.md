@@ -8,6 +8,7 @@ Crea tu propia página web con los elementos de Bootstrap del diseño y que teng
     -   Una **tabla** formateada en Bootstrap con datos y al menos 10 entradas.
     -	Un carrusel de **imágenes**, galería, o similar, con imágenes generadas aleatoriamente de tamaño reducido (200x200).
 
+![](media/EjercicioBootstrap1.png)
 
 ## Parte 2
 
@@ -15,4 +16,4 @@ Mejora la página anterior para que el contenedor principal ahora tenga **dos co
 
 - En una de ellas habrá un **formulario** principal con al menos 6 elementos de formulario y una validación básica de éstos usando el estándar de HTML5.
 
-![](media/9e619c7221b7ff3c464c086da7136b3b.png)
+![](media/EjercicioBootstrap2.png)
