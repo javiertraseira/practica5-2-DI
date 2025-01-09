@@ -30,4 +30,4 @@ Se valorará:
 - La utilización de componentes variados de Bootstrap.
 - La adaptabilidad a diferentes tamaños de pantalla.
 - La estética general y funcionalidad de la página.
-- Agregar una tabla de pruebas en la validación de los elementos del formulario.
+- Agregar una **tabla de pruebas** para la validación de los elementos del formulario.
