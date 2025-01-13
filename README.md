@@ -7,7 +7,7 @@ Crea tu propia página web con los elementos de Bootstrap y que tenga al menos l
 -   Un lenguaje de diseño coherente con lo que hemos visto hasta ahora.
 -   Un contenedor principal que tenga los siguientes elementos:
     - Una **tabla** formateada en Bootstrap con datos y al menos 10 entradas.
-    - Un carrusel de **imágenes**, galería, o similar, con imágenes generadas aleatoriamente de tamaño reducido (200x200).
+    - Un carrusel de **imágenes**, galería, o similar, con imágenes generadas aleatoriamente de un tamaño concreto.
     - Una fila con **tres columnas** que describan diferentes servicios o características de tu web. Cada columna debe incluir un icono (puedes usar *Bootstrap Icons*), un título y una breve descripción.
     - Incluye una hoja de estilos CSS adicional para modificar varios elementos de tu diseño.
     - Cualquier otro elemento de Bootstrap que quieras añadir y que sea coherente con la temática de tu página.
